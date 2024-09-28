@@ -5,5 +5,5 @@ public class NewCircle {
 	public float area(float radius) {
 		return area=(float) (3.14*radius*radius);
 	}
-
+//changes are made
 }
